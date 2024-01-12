@@ -33,8 +33,7 @@ If you are using the codes, please cite our papers.
     @article{DPO,
     title={A Fully Decentralized Surrogate for Multi-Agent Policy Optimization},
     author={Su, Kefan and Lu, Zongqing},
-    journal={Submitted to Transactions on Machine Learning Research},
-    year={2023},
-    url={https://openreview.net/forum?id=MppUW90uU2},
-    note={Under review}
+    journal={Transactions on Machine Learning Research},
+    year={2024},
+    url={https://openreview.net/forum?id=MppUW90uU2}
     }
