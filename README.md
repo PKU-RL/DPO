@@ -27,13 +27,12 @@ Here, we provide results in three different SMAC scenarios using default hyperpa
 
 If you are using the codes, please cite our papers.
 
-[Kefan Su and Zongqing Lu. *A Fully Decentralized Surrogate for Multi-Agent Policy Optimization*. TMLR.](https://openreview.net/forum?id=MppUW90uU2)
+[Kefan Su and Zongqing Lu. *A Fully Decentralized Surrogate for Multi-Agent Policy Optimization*. TMLR, 2024](https://openreview.net/forum?id=MppUW90uU2)
 
 
     @article{DPO,
     title={A Fully Decentralized Surrogate for Multi-Agent Policy Optimization},
     author={Su, Kefan and Lu, Zongqing},
     journal={Transactions on Machine Learning Research},
-    year={2024},
-    url={https://openreview.net/forum?id=MppUW90uU2}
+    year={2024}
     }
